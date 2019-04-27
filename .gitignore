@@ -50,3 +50,4 @@ public/assets/logo.png
 node_modules
 Practice
 .gitattributes
+mongodb.js
